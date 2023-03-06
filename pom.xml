@@ -205,12 +205,12 @@
 		<repository>
 			<id>sprint-nexus-release</id>
 			<name>sprint-nexus-release</name>
-			<url>http://52.66.169.120:8081/repository/sprint-nexus-release/</url>
+			<url>http://43.205.214.99:8081/repository/sprint-nexus-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>sprint-snapshot</id>
 			<name>sprint-snapshot</name>
-			<url>http://52.66.169.120:8081/repository/sprint-snapshot/</url>
+			<url>http://43.205.214.99:8081/repository/sprint-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
