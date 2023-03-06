@@ -4,6 +4,7 @@
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
   <version>2.7.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
@@ -203,14 +204,14 @@
 
   <distributionManagement>
 		<repository>
-			<id>sprint-nexus-release</id>
-			<name>sprint-nexus-release</name>
-			<url>http://43.205.214.99:8081/repository/sprint-nexus-release/</url>
+			<id>spring-release</id>
+			<name>spring-release</name>
+			<url>http://13.127.233.115:8081/repository/spring-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>sprint-snapshot</id>
-			<name>sprint-snapshot</name>
-			<url>http://43.205.214.99:8081/repository/sprint-snapshot/</url>
+			<id>spring-snapshot</id>
+			<name>spring-snapshot</name>
+			<url>http://13.127.233.115:8081/repository/spring-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
