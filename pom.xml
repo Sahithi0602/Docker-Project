@@ -206,19 +206,19 @@
 		<repository>
 			<id>spring-release</id>
 			<name>spring-release</name>
-			<url>http://13.235.79.141:8081/repository/spring-release/</url>
+			<url>http://65.1.91.172:8081/repository/spring-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>spring-snapshot</id>
 			<name>spring-snapshot</name>
-			<url>http://13.235.79.141:8081/repository/spring-snapshot/</url>
+			<url>http://65.1.91.172:8081/repository/spring-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
   <pluginRepositories>
     <pluginRepository>
       <id>spring-snapshots</id>
-      <name>Spring Snapshots</name>
+      <name>spring-snapshot</name>
       <url>https://repo.spring.io/snapshot</url>
       <snapshots>
         <enabled>true</enabled>
