@@ -204,14 +204,14 @@
 
   <distributionManagement>
 		<repository>
-			<id>spring-release</id>
-			<name>spring-release</name>
-			<url>http://65.1.91.172:8081/repository/spring-release/</url>
+			<id>sprint-release</id>
+			<name>sprint-release</name>
+			<url>http://3.111.157.100:8081/repository/sprint-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>spring-snapshot</id>
-			<name>spring-snapshot</name>
-			<url>http://65.1.91.172:8081/repository/spring-snapshot/</url>
+			<id>sprint-snapshots</id>
+			<name>sprint-snapshots</name>
+			<url>http://3.111.157.100:8081/repository/sprint-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
